@@ -13,7 +13,7 @@ Requirements
     1. Unzip the files in your testing environment.
 
 Testing
-  1. Open a terminal for server 
-  - Run socket server: python socket_server.py
-  2. Open another terminal for client
-  - Run socket client: python socket_client.py
+  1. Open a terminal for server and run:
+  - python socket_server.py
+  2. Open another terminal for client and run:
+  - python socket_client.py
